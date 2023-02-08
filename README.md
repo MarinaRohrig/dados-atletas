@@ -6,7 +6,6 @@ Exibe informações dos atletas, categoria, IMC e média calculada das notas dos
 Você deverá criar uma classe Atleta para concentrar os atributos e métodos dos atletas.
 <br>
 A classe deverá receber os seguintes atributos:
-<br>
 <ul>
 <li>nome</li>
 <li>idade</li>
@@ -14,9 +13,7 @@ A classe deverá receber os seguintes atributos:
 <li>altura</li>
 <li>notas</li>
 <ul>
-<br>
 A classe deverá possuir os seguintes métodos:
-
 <ul>
 <li>calculaCategoria(), para calcular a categoria do atleta;</li>
 <li>calculaIMC(), para calcular o IMC do atleta;</li>
