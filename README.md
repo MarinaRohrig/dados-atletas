@@ -5,6 +5,7 @@ Exibe informações dos atletas, categoria, IMC e média calculada das notas dos
 <br>
 Classe Atleta para concentrar os atributos e métodos dos atletas.
 <br>
+<br>
 A classe deverá receber os seguintes atributos:
 <br>
 <ul>
@@ -30,3 +31,4 @@ A classe deverá possuir os seguintes métodos:
 </ul>
 
 ## Resultado esperado
+![image](https://user-images.githubusercontent.com/47861112/217591317-25da499f-0917-4fba-b63e-013ef93e31d4.png)
